@@ -24,3 +24,8 @@ https://github.com/panjf2000/ants
 ### Events
 
 https://github.com/mlogclub/bbs-go 
+
+
+### Hashicorp intergration
+
+https://github.com/hashicorp/go-plugin

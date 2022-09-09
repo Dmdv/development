@@ -32,4 +32,5 @@ https://github.com/hashicorp/go-plugin
 https://www.innoq.com/en/blog/go-plugins-with-javascript  
 https://github.com/innoq/go-plugins-examples  
 https://github.com/rogchap/v8go.  
+https://domenicoluciani.com/2018/09/19/writing-modular-software-using-go-plugins.html. 
 

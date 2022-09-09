@@ -31,3 +31,5 @@ https://github.com/mlogclub/bbs-go
 https://github.com/hashicorp/go-plugin  
 https://www.innoq.com/en/blog/go-plugins-with-javascript  
 https://github.com/innoq/go-plugins-examples  
+https://github.com/rogchap/v8go.  
+

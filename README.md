@@ -26,6 +26,8 @@ https://github.com/panjf2000/ants
 https://github.com/mlogclub/bbs-go 
 
 
-### Hashicorp intergration
+### Hashicorp intergration & plugins
 
 https://github.com/hashicorp/go-plugin
+https://www.innoq.com/en/blog/go-plugins-with-javascript
+https://github.com/innoq/go-plugins-examples
